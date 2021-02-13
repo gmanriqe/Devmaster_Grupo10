@@ -1,5 +1,6 @@
 COMANDOS BASICOS EN GIT:
 
+*CONFIGURAR CONSOLA GIT*
 $git config --list
 Visualizar config (valida user.name y user.email)
 
@@ -7,6 +8,7 @@ $git config --global user.name "gmanriqe"
 $git config --global user.email "gmanriqe@gmail.com"
 Identificación
 
+*TRABAJAR*
 $git init
 Inicializando repositorio en local (Working dir)
 
